@@ -4,5 +4,4 @@ Este arquivo foi gerado pelo cruzamento das áreas urbanizadas mapeadas pelo Map
 
 # Como citar estes dados: #
 
-Pedrassoli, J. C. Dados de área de expansão anual de favelas no Brasil entre 1985 e 2021. Disponível em: https://github.com/jpedrassoli/slum_expansion_brasil_v1)https://github.com/jpedrassoli/slum_expansion_brasil_v1
-
+Pedrassoli, J. C. Dados de área de expansão anual de favelas no Brasil entre 1985 e 2021. Disponível em: https://github.com/jpedrassoli/slum_expansion_brasil_v1
